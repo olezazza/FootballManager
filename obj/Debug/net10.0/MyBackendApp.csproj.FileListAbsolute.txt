@@ -1,0 +1,14 @@
+C:\Users\gulua\Downloads\MyBackendApp\bin\Debug\net10.0\MyBackendApp.exe
+C:\Users\gulua\Downloads\MyBackendApp\bin\Debug\net10.0\MyBackendApp.deps.json
+C:\Users\gulua\Downloads\MyBackendApp\bin\Debug\net10.0\MyBackendApp.runtimeconfig.json
+C:\Users\gulua\Downloads\MyBackendApp\bin\Debug\net10.0\MyBackendApp.dll
+C:\Users\gulua\Downloads\MyBackendApp\bin\Debug\net10.0\MyBackendApp.pdb
+C:\Users\gulua\Downloads\MyBackendApp\obj\Debug\net10.0\MyBackendApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulua\Downloads\MyBackendApp\obj\Debug\net10.0\MyBackendApp.AssemblyInfoInputs.cache
+C:\Users\gulua\Downloads\MyBackendApp\obj\Debug\net10.0\MyBackendApp.AssemblyInfo.cs
+C:\Users\gulua\Downloads\MyBackendApp\obj\Debug\net10.0\MyBackendApp.csproj.CoreCompileInputs.cache
+C:\Users\gulua\Downloads\MyBackendApp\obj\Debug\net10.0\MyBackendApp.dll
+C:\Users\gulua\Downloads\MyBackendApp\obj\Debug\net10.0\refint\MyBackendApp.dll
+C:\Users\gulua\Downloads\MyBackendApp\obj\Debug\net10.0\MyBackendApp.pdb
+C:\Users\gulua\Downloads\MyBackendApp\obj\Debug\net10.0\MyBackendApp.genruntimeconfig.cache
+C:\Users\gulua\Downloads\MyBackendApp\obj\Debug\net10.0\ref\MyBackendApp.dll
